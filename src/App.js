@@ -5,7 +5,8 @@ function App() {
   return (
     <div className="App">
       <h2>React App </h2>
-      <h3>Class-II of Bootcamp2o2o</h3>
+      <h3>Class 2 of Bootcamp2o2o</h3>
+      <h4>Demo</h4>
     </div>
   );
 }
